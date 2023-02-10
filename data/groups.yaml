@@ -312,6 +312,11 @@ study:
     groupid: 512210165
     owner: dag
     notes: 24考研群
+    
+  - name: acmer前端技术交流群
+    groupid: 428509446
+    owner: 菜鸡坤
+    # notes: 
 
 company:
   - name: Acmer in Alibaba or Ant
